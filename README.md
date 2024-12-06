@@ -24,6 +24,9 @@ The SIEM Lab was to establish an environment to understand Splunk using its sear
 
 1. Finding the DDOS attack and how long did it take to recover report.
 
+[Report of Download Speeds
+](https://github.com/Adamgzlez/SIEM-Lab/blob/main/Screen%20Shot%202023-05-09%20at%2011.05.03%20PM.png)
+
 2. Uploading Nessus reports for and using that data to build an alert and report.
 
 3. Uploading admin login attempts and finding when the brute force occured and developing a baseline for a new alert. 
