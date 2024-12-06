@@ -2,7 +2,7 @@
 
 ## Objective
 
-The SIEM Lab was to establish an evironment to understand Splunk using its searching capabilities, uploading files, and customizing reports and alerts for each given task to help mitigate future attacks. The focus was to analyze logs within a Security Information and Event Management (SIEM) system, analyzing file data that imitated real-world attack scenarios. This hands-on experience was designed to deepen understanding of Splunk as well as custom alerts, reports, and using Splunks search engine to analyze data.
+The SIEM Lab was to establish an environment to understand Splunk using its searching capabilities, uploading files, and customizing reports and alerts for each given task to help mitigate future attacks. The focus was to analyze logs within a Security Information and Event Management (SIEM) system, analyzing file data that imitated real-world attack scenarios. This hands-on experience was designed to deepen understanding of Splunk as well as custom alerts, reports, and using Splunks search engine to analyze data.
 
 ### Skills Learned
 
