@@ -24,7 +24,7 @@ The SIEM Lab was to establish an environment to understand Splunk using its sear
 
 1. Finding the DDOS attack and how long did it take to recover report.
 
-[Speed Test FileLinks to an external site.](https://drive.google.com/file/d/1sAIEh_vxhjJJpj3NiPx8Wele_-cfEZTK/view)
+[Speed Test File Used](https://drive.google.com/file/d/1sAIEh_vxhjJJpj3NiPx8Wele_-cfEZTK/view)
 
 Based on the file that was uploaded and we searched for the DDOS attack was done around 2020-02-23 14:30:00 or 2:30 pm.
 
@@ -35,15 +35,23 @@ Systems fully recovered at 2020-02-23 23:30:00 or 11:30 pm. It took 9 hours to r
 
 2. Uploading Nessus reports for and using that data to build an alert and report.
 
+[Nessus File Used
+](https://drive.google.com/file/d/1AonO8jAN4nKniZDw5qAYoMamBBXLpkdr/view)
+
+A reports what is currently severe and what isn't to determine what we should work on. 
 
 [Severity Report
 ](https://github.com/Adamgzlez/SIEM-Lab/blob/main/Screen%20Shot%202023-05-09%20at%2011.57.24%20PM.png)
 
-An alert to help 
+An alert to help determine when a new vulerabilities are discovered and sends an alert to the team.
+
 [Critical Vulnerabilities Customer Database Alert
 ](https://github.com/Adamgzlez/SIEM-Lab/blob/main/Screen%20Shot%202023-05-10%20at%2012.00.26%20AM.png)
 
 3. Uploading admin login attempts and finding when the brute force occured and developing a baseline for a new alert.
+
+[Admin Logs Used
+](https://drive.google.com/file/d/1q5OJzVpvW0ExKuc8BtQ2LQOqpneLpUUy/view)
 
 Based on the file that was uploaded the burte force attack occured around 2/20/2020 at 23:48:04 or 11:48 pm
 
