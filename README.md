@@ -32,4 +32,7 @@ The SIEM Lab was to establish an environment to understand Splunk using its sear
 [Severity Report
 ](https://github.com/Adamgzlez/SIEM-Lab/blob/main/Screen%20Shot%202023-05-09%20at%2011.57.24%20PM.png)
 
+[Critical Vulnerabilities Customer Database Alert
+](https://github.com/Adamgzlez/SIEM-Lab/blob/main/Screen%20Shot%202023-05-10%20at%2012.00.26%20AM.png)
+
 3. Uploading admin login attempts and finding when the brute force occured and developing a baseline for a new alert. 
