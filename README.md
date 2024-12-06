@@ -1,31 +1,29 @@
-# PROJECTNAME
+# SIEM LAB
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The SIEM Lab was to establish an evironment to understand Splunk using its searching capabilities, uploading files, and customizing reports and alerts for each given task to help mitigate future attacks. The focus was to analyze logs within a Security Information and Event Management (SIEM) system, analyzing file data that imitated real-world attack scenarios. This hands-on experience was designed to deepen understanding of Splunk as well as custom alerts, reports, and using Splunks search engine to analyze data.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Basic understanding of SIEM concepts and practical application.
+- Using fields to analyze and interpret network logs.
+- Ability to generate and recognize attack signatures and patterns with reports.
+- Enhanced knowledge of security vulnerabilities.
+- Developing baselines and centering alerts around them. 
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Security Information and Event Management (SIEM) system for log ingestion and analysis. (SPLUNK)
+- Custom Reports and Alerts
+- Splunk searching
+- Uploading files
+- Using fields
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+1. Finding the DDOS attack and how long did it take to recover report.
 
-Example below.
+2. Uploading Nessus reports for and using that data to build an alert and report.
 
-*Ref 1: Network Diagram*
+3. Uploading admin login attempts and finding when the brute force occured and developing a baseline for a new alert. 
